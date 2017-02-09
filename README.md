@@ -9,3 +9,6 @@ Please run it locally with following VM-option: `-Dspring.profiles.active="dev"`
 Live: http://www.jparser.info
 
 Twitter: https://twitter.com/jParser_info
+
+- parse smth else
+- time schedule outside code
