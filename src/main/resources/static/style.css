@@ -1,0 +1,51 @@
+
+.logo {
+    margin: 30px 0 40px 0;
+    padding-left: 0;
+}
+
+.logo h1, .logo span {
+    display: inline-block;
+}
+
+.logo h2 {
+    margin-top: -8px;
+    font-size: 14px;
+}
+
+.logo small, .logo span, .logo h2 {
+    color: cadetblue;
+}
+
+.logo a:hover {
+    text-decoration: none;
+}
+
+.logo, .twitter {
+    display: inline-block;
+    float: none;
+}
+
+.twitter {
+    vertical-align: super;
+}
+
+.under {
+    font-size: 12px;
+}
+
+.center-block {
+    float: none
+}
+
+.jobBlock {
+    word-wrap: break-word;
+}
+
+.jobBlock, .pagination {
+    margin-top: 35px;
+}
+
+.footer {
+    margin: 30px 0 30px 0;
+}
